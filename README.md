@@ -1,4 +1,4 @@
-# papers for SE in Knowledge-graphs
+# papers for Knowledge-graphs in SE
 
 ## 2023
 ## 2022
@@ -126,6 +126,7 @@
 [e-Science] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9041835) <br>
 
+
 - **Service Application Knowledge Graph and Dependency System**  <br>
 [ASE Workshops] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/8967419) <br>
@@ -138,26 +139,6 @@
 [SANER] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/8330232) <br>
 
-
-- **Open Source Software Vulnerability Propagation Analysis Algorithm based on Knowledge Graph**  <br>
-[SmartCloud] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9091392) <br>
-
-- **Open Source Software Vulnerability Propagation Analysis Algorithm based on Knowledge Graph**  <br>
-[SmartCloud] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9091392) <br>
-
-- **Open Source Software Vulnerability Propagation Analysis Algorithm based on Knowledge Graph**  <br>
-[SmartCloud] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9091392) <br>
-
-- **Open Source Software Vulnerability Propagation Analysis Algorithm based on Knowledge Graph**  <br>
-[SmartCloud] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9091392) <br>
-
-- **Open Source Software Vulnerability Propagation Analysis Algorithm based on Knowledge Graph**  <br>
-[SmartCloud] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9091392) <br>
 
 
 ## 2017
@@ -172,21 +153,12 @@
 [ICSE-Companion] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/7965299) <br>
 
+
 - **On event-driven knowledge graph completion in digital factories**  <br>
 [BigData] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/8258105) <br>
 
-- **Open Source Software Vulnerability Propagation Analysis Algorithm based on Knowledge Graph**  <br>
-[SmartCloud] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9091392) <br>
 
-- **Open Source Software Vulnerability Propagation Analysis Algorithm based on Knowledge Graph**  <br>
-[SmartCloud] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9091392) <br>
-
-- **Open Source Software Vulnerability Propagation Analysis Algorithm based on Knowledge Graph**  <br>
-[SmartCloud] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9091392) <br>
 
 
 ## 2016
