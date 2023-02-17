@@ -7,6 +7,27 @@
 [PDF](https://dl.acm.org/doi/10.1145/3522586) <br>
 
 
+- **Representing Technical Standards as Knowledge Graph to Guide the Design of Industrial Systems**  <br>
+[EUROCAST] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-031-25312-6_71) <br>
+
+
+- **Generating Network Security Defense Strategy Based on Cyber Threat Intelligence Knowledge Graph**  <br>
+[ICENAT] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-981-19-9697-9_41) <br>
+
+
+- **Detection of SDN Flow Rule Conflicts Based on Knowledge Graph**  <br>
+[ICENAT] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-981-19-9697-9_8) <br>
+
+
+- **Heterogeneous Graph Neural Network-Based Software Developer Recommendation**  <br>
+[CollaborateCom] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-031-24383-7_24) <br>
+
+
+
 ## 2022
 
 - **STDE: A Single-Senior-Teacher Knowledge Distillation Model for High-Dimensional Knowledge Graph Embeddings**  <br>
@@ -54,6 +75,27 @@
 [PDF](https://dl.acm.org/doi/10.1145/3493700.3493735) <br>
 
 
+- **A Software Security Entity Relationships Prediction Framework Based on Knowledge Graph Embedding Using Sentence-Bert**  <br>
+[WASA] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-031-19214-2_42) <br>
+
+
+- **Scholarly Knowledge Extraction from Published Software Packages**  <br>
+[ICADL] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-031-21756-2_24) <br>
+
+
+- **Upgrade SecSLA Using Security as a Service Based on Knowledge Graph**  <br>
+[FTC] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-031-18458-1_33) <br>
+
+
+- **Research on Construction Method of SoS Architecture Knowledge Graph**  <br>
+[KSS] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-981-19-3610-4_12) <br>
+
+
+
 ## 2021
 
 - **DockerGen: A Knowledge Graph based Approach for Software Containerization**  <br>
@@ -94,6 +136,16 @@
 - **Construction and application of knowledge graph of domestic operating system testing**  <br>
 [CSSE] ()  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/10.1145/3494885.3494933) <br>
+
+
+- **KG2Code: Correct Code Examples Mining Service Based on Knowledge Graph for Fixing API Misuses**  <br>
+[ICSOC] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_65) <br>
+
+
+- **The SLOGERT Framework for Automated Log Knowledge Graph Construction**  <br>
+[ESWC] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-77385-4_38) <br>
 
 
 
@@ -145,6 +197,26 @@
 [PDF](https://dl.acm.org/doi/10.1145/3371158.3371202) <br>
 
 
+- **Construction and Applications of Embedded Aerospace Software Defect Knowledge Graph**  <br>
+[ICSINC] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-981-15-4163-6_56) <br>
+
+
+- **Application of Open-Source Software in Knowledge Graph Construction**  <br>
+[eLEOT] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-63955-6_9) <br>
+
+
+- **Investigating Software Usage in the Social Sciences: A Knowledge Graph Approach**  <br>
+[ESWC] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-49461-2_16) <br>
+
+
+- **A Knowledge Graph Based Approach for Mobile Application Recommendation**  <br>
+[ICSOC] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-65310-1_25) <br>
+
+
 
 ## 2019
 
@@ -168,6 +240,45 @@
 [PDF](https://ieeexplore.ieee.org/document/8967419) <br>
 
 
+- **Searching Software Knowledge Graph with Question**  <br>
+[ICSR] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-22888-0_9) <br>
+
+
+- **Embedding and Predicting Software Security Entity Relationships: A Knowledge Graph Based Approach**  <br>
+[ICONIP] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-36718-3_5) <br>
+
+
+- **A Software Framework and Datasets for the Analysis of Graph Measures on RDF Graphs**  <br>
+[ESWC] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-21348-0_34) <br>
+
+
+- **Benefits and Drawbacks of Representing and Analyzing Source Code and Software Engineering Artifacts with Graph Databases**  <br>
+[SWQD] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-05767-1_9) <br>
+
+
+- **Knowledge Graph Exploration: A Usability Evaluation of Query Builders for Laypeople**  <br>
+[SEMANTiCS] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-33220-4_24) <br>
+
+
+- **Knowledge Graph Based Semi-automatic Code Auditing System**  <br>
+[SciSec] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-34637-9_17) <br>
+
+
+- **The SEPSES Knowledge Graph: An Integrated Resource for Cybersecurity**  <br>
+[ISWC] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-30796-7_13) <br>
+
+
+- **Automatic Analysis and Reasoning Based on Vulnerability Knowledge Graph**  <br>
+[CyberDI] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-981-15-1922-2_1) <br>
+
 
 ## 2018
 
@@ -180,6 +291,10 @@
 [ESEC/FSE] ()  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/10.1145/3236024.3275428) <br>
 
+
+- **Exploring Enterprise Knowledge Graphs: A Use Case in Software Engineering**  <br>
+[ESWC] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_36) <br>
 
 
 
@@ -201,6 +316,21 @@
 [PDF](https://ieeexplore.ieee.org/document/8258105) <br>
 
 
+- **Processing Redundancy in UML Diagrams Based on Knowledge Graph**  <br>
+[PAAP] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-981-10-6442-5_39) <br>
+
+
+- **Entity Set Expansion with Meta Path in Knowledge Graph**  <br>
+[PAKDD] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-319-57454-7_25) <br>
+
+
+- **A Pay as You Use Resource Security Provision Approach Based on Data Graph, Information Graph and Knowledge Graph**  <br>
+[IDEAL] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-319-68935-7_48) <br>
+
+
 
 ## 2016
 
@@ -209,7 +339,22 @@
 [PDF](https://ieeexplore.ieee.org/document/7862379) <br>
 
 
+- **Enhancing UML Class Diagram Abstraction with Knowledge Graph**  <br>
+[IDEAL] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-319-46257-8_65) <br>
+
+
 ## 2015
+
+
 ## 2014
+
+
+- **Formal Modeling of Airborne Software High-Level Requirements Based on Knowledge Graph**  <br>
+[KSEM] ()  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-319-12096-6_23) <br>
+
+
+
 ## 2013
 
