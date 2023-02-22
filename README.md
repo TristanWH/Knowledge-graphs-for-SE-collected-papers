@@ -3,7 +3,7 @@
 ## 2023
 
 - **Defining a Knowledge Graph Development Process Through a Systematic Review**  <br>
-[ACM Transactions on Software Engineering and Methodology] ()  　ACM  <br> 
+[ACM Transactions on Software Engineering and Methodology] (JCR-Q3)  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/10.1145/3522586) <br>
 
 
@@ -23,7 +23,7 @@
 
 
 - **Heterogeneous Graph Neural Network-Based Software Developer Recommendation**  <br>
-[CollaborateCom] ()  　Springer  <br> 
+[CollaborateCom] (ccf-c)  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-24383-7_24) <br>
 
 
@@ -41,12 +41,12 @@
 
 
 - **A Software Failure Mode Analysis Method Based on Test Knowledge Graph**  <br>
-[DSA] ()  　IEEE  <br> 
+[DSA] (ccf-c)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9914426) <br>
 
 
 - **KGSecConfig: A Knowledge Graph Based Approach for Secured Container Orchestrator Configuration**  <br>
-[SANER] ()  　IEEE  <br> 
+[SANER] (ccf-b)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9825815) <br>
 
 
@@ -56,12 +56,12 @@
 
 
 - **KGSecConfig: A Knowledge Graph Based Approach for Secured Container Orchestrator Configuration**  <br>
-[SANER] ()  　IEEE  <br> 
+[SANER] (ccf-b)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9825815) <br>
 
 
 - **Towards An Efficient Searching Approach of ROS Message by Knowledge Graph**  <br>
-[COMPSAC] ()  　IEEE  <br> 
+[COMPSAC] (ccf-c)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9842690) <br>
 
 
@@ -76,7 +76,7 @@
 
 
 - **A Software Security Entity Relationships Prediction Framework Based on Knowledge Graph Embedding Using Sentence-Bert**  <br>
-[WASA] ()  　Springer  <br> 
+[WASA] (ccf-c)  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-19214-2_42) <br>
 
 
@@ -104,12 +104,12 @@
 
 
 - **Knowledge-Oriented Graph-Based Approach to Capture the Evolution of Developers’ Knowledge**  <br>
-[IEEE BigData] ()  　IEEE  <br> 
+[IEEE BigData] (ccf-c)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9529714) <br>
 
 
 - **Test Case Reuse Based on Software Testing Knowledge Graph and Collaborative Filtering Recommendation Algorithm**  <br>
-[QRS-C] ()  　IEEE  <br> 
+[QRS-C] (ccf-c)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9742010) <br>
 
 
@@ -119,17 +119,17 @@
 
 
 - **Using Cognitive Interest Graph and Knowledge-activated Attention for Learning Resource Recommendation**  <br>
-[COMPSAC] ()  　IEEE  <br> 
+[COMPSAC] (ccf-c)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9529854) <br>
 
 
 - **Fault Localization based on Knowledge Graph in Software-Defined Optical Networks**  <br>
-[Journal of Lightwave Technology] ()  　IEEE  <br> 
+[Journal of Lightwave Technology] (JCR_Q1)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9399234) <br>
 
 
 - **SoMeSci- A 5 Star Open Data Gold Standard Knowledge Graph of Software Mentions in Scientific Articles**  <br>
-[CIKM] ()  　ACM  <br> 
+[CIKM] (ccf-a)  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/10.1145/3459637.3482017) <br>
 
 
@@ -139,12 +139,12 @@
 
 
 - **KG2Code: Correct Code Examples Mining Service Based on Knowledge Graph for Fixing API Misuses**  <br>
-[ICSOC] ()  　Springer  <br> 
+[ICSOC] (ccf-b)  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_65) <br>
 
 
 - **The SLOGERT Framework for Automated Log Knowledge Graph Construction**  <br>
-[ESWC] ()  　Springer  <br> 
+[ESWC] (ccf-c)  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-77385-4_38) <br>
 
 
@@ -183,12 +183,12 @@
 
 
 - **Exploiting Code Knowledge Graph for Bug Localization via Bi-directional Attention**  <br>
-[ICPC] ()  　ACM  <br> 
+[ICPC] (ccf-b)  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/10.1145/3387904.3389281) <br>
 
 
 - **Crowdsourced requirements generation for automatic testing via knowledge graph**  <br>
-[ISSTA] ()  　ACM  <br> 
+[ISSTA] (ccf-a)  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/10.1145/3395363.3404363) <br>
 
 
@@ -208,12 +208,12 @@
 
 
 - **Investigating Software Usage in the Social Sciences: A Knowledge Graph Approach**  <br>
-[ESWC] ()  　Springer  <br> 
+[ESWC] (ccf-c)  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-49461-2_16) <br>
 
 
 - **A Knowledge Graph Based Approach for Mobile Application Recommendation**  <br>
-[ICSOC] ()  　Springer  <br> 
+[ICSOC] (ccf-b)  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-65310-1_25) <br>
 
 
@@ -236,22 +236,22 @@
 
 
 - **Service Application Knowledge Graph and Dependency System**  <br>
-[ASE Workshops] ()  　IEEE  <br> 
+[ASE Workshops] (ccf-a)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/8967419) <br>
 
 
 - **Searching Software Knowledge Graph with Question**  <br>
-[ICSR] ()  　Springer  <br> 
+[ICSR] (ccf-c)  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-22888-0_9) <br>
 
 
 - **Embedding and Predicting Software Security Entity Relationships: A Knowledge Graph Based Approach**  <br>
-[ICONIP] ()  　Springer  <br> 
+[ICONIP] (ccf-c)  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-36718-3_5) <br>
 
 
 - **A Software Framework and Datasets for the Analysis of Graph Measures on RDF Graphs**  <br>
-[ESWC] ()  　Springer  <br> 
+[ESWC] (ccf-c)  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-21348-0_34) <br>
 
 
@@ -271,7 +271,7 @@
 
 
 - **The SEPSES Knowledge Graph: An Integrated Resource for Cybersecurity**  <br>
-[ISWC] ()  　Springer  <br> 
+[ISWC] (ccf-b)  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-30796-7_13) <br>
 
 
@@ -283,7 +283,7 @@
 ## 2018
 
 - **DeepWeak: Reasoning common software weaknesses via knowledge graph embedding**  <br>
-[SANER] ()  　IEEE  <br> 
+[SANER] (ccf-b)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/8330232) <br>
 
 
@@ -293,7 +293,7 @@
 
 
 - **Exploring Enterprise Knowledge Graphs: A Use Case in Software Engineering**  <br>
-[ESWC] ()  　Springer  <br> 
+[ESWC] (ccf-c)  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_36) <br>
 
 
@@ -307,12 +307,12 @@
 
 
 - **Construct Bug Knowledge Graph for Bug Resolution**  <br>
-[ICSE-Companion] ()  　IEEE  <br> 
+[ICSE-Companion] (ccf-a)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/7965299) <br>
 
 
 - **On event-driven knowledge graph completion in digital factories**  <br>
-[BigData] ()  　IEEE  <br> 
+[BigData] (ccf-c)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/8258105) <br>
 
 
@@ -322,7 +322,7 @@
 
 
 - **Entity Set Expansion with Meta Path in Knowledge Graph**  <br>
-[PAKDD] ()  　Springer  <br> 
+[PAKDD] (ccf-c)  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-319-57454-7_25) <br>
 
 
@@ -351,7 +351,7 @@
 
 
 - **Formal Modeling of Airborne Software High-Level Requirements Based on Knowledge Graph**  <br>
-[KSEM] ()  　Springer  <br> 
+[KSEM] (ccf-c)  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-319-12096-6_23) <br>
 
 
