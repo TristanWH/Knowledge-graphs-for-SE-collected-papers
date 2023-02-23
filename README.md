@@ -85,6 +85,36 @@
 [PDF](https://link.springer.com/chapter/10.1007/978-981-19-3610-4_12) <br>
 
 
+- **基于软件知识图谱的代码语义标签自动生成方法**  <br>
+[软件学报] (ccf-a)  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UCr-lirV_EFPh8cIT_RjbimIuz5ucf9gY8wUTciy3EIk&uniplatform=NZKPT) <br>
+
+
+- **软件安全漏洞知识图谱构建方法**  <br>
+[计算机工程与设计] (ccf-c)  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XcbPmNjLW75WuII5fwEDCCqz2YF1jCKGSemLG8w52AAN&uniplatform=NZKPT) <br>
+
+
+- **基于知识图谱的测试用例复用方法**  <br>
+[计算机工程与设计] (ccf-c)  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=12&CurRec=9&DbCode=CJFD&dbname=CJFDLAST2022&filename=SJSJ202205010&urlid=&yx=) <br>
+
+
+- **构建软件测试领域不确定性知识图谱**  <br>
+[计算机技术与发展] (ccf-c)  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XWtPO6KuPDQ5P-0sFHWvz0x9hyKsRSgi71XgXRouqZZH&uniplatform=NZKPT) <br>
+
+
+- **基于知识图谱的软件平台知识表示方法研究**  <br>
+[计算机应用与软件] (ccf-c)  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XQ-qfGHas6r_ZbbHLxKlc_KdMFv1rwjgpRqBKgljtg-M&uniplatform=NZKPT) <br>
+
+
+- **基于知识图谱的软件工程数据库设计**  <br>
+[智能计算机与应用] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XcA6jCPQW5uGj1EbMRsuudFBqgaS-f9-Vv8gQ5vHqqy8&uniplatform=NZKPT) <br>
+
+
 
 ## 2021
 
@@ -207,6 +237,16 @@
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-65310-1_25) <br>
 
 
+- **代码知识图谱构建及智能化软件开发方法研究**  <br>
+[软件学报] (ccf-a)  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXosnsVWP5XijZB7c07J4HsqsNOKzkUGhMTiReqXr9vhRn&uniplatform=NZKPT) <br>
+
+
+- **基于多源数据融合的Java代码知识图谱构建方法研究**  <br>
+[智能计算机与应用] ()  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXon3qU3LIkZWhXG96CBwSIoXst3wKfHD0aGbIoc7apf5R&uniplatform=NZKPT) <br>
+
+
 
 ## 2019
 
@@ -268,6 +308,11 @@
 - **Automatic Analysis and Reasoning Based on Vulnerability Knowledge Graph**  <br>
 [CyberDI] ()  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-981-15-1922-2_1) <br>
+
+
+- **代码知识图谱构建及智能化软件开发方法研究**  <br>
+[软件学报] (ccf-a)  　CNKI  <br> 
+[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=12&CurRec=66&DbCode=CJFD&dbname=CJFDLAST2020&filename=RJXB202001003&urlid=11.2560.TP.20191106.1149.012&yx=Y) <br>
 
 
 ## 2018
