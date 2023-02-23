@@ -65,11 +65,6 @@
 [PDF](https://ieeexplore.ieee.org/document/9842690) <br>
 
 
-- **Creating Virtual Knowledge Graphs from Software-Internal Data**  <br>
-[IES] ()  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9969051) <br>
-
-
 - **Incremental Analysis of Legacy Applications Using Knowledge Graphs for Application Modernization**  <br>
 [CODS-COMAD] ()  　ACM  <br> 
 [PDF](https://dl.acm.org/doi/10.1145/3493700.3493735) <br>
@@ -78,11 +73,6 @@
 - **A Software Security Entity Relationships Prediction Framework Based on Knowledge Graph Embedding Using Sentence-Bert**  <br>
 [WASA] (ccf-c)  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-19214-2_42) <br>
-
-
-- **Scholarly Knowledge Extraction from Published Software Packages**  <br>
-[ICADL] ()  　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-3-031-21756-2_24) <br>
 
 
 - **Upgrade SecSLA Using Security as a Service Based on Knowledge Graph**  <br>
