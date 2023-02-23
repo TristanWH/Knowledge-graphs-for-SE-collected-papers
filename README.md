@@ -332,6 +332,16 @@
 [PDF](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_36) <br>
 
 
+- **Improving API Caveats Accessibility by Mining API Caveats Knowledge Graph**  <br>
+[CSME] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/document/8530028) <br>
+
+
+- **DeepWeak: reasoning common software weaknesses via knowledge graph embedding**  <br>
+[SANER] (ccf-b)  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/abstract/document/8330232) <br>
+
+
 
 ## 2017
 
@@ -366,6 +376,16 @@
 [PDF](https://link.springer.com/chapter/10.1007/978-3-319-68935-7_48) <br>
 
 
+- **The structure and dynamics of knowledge network in domain-specific Q&A sites: a case study of stack overflow**  <br>
+[Empirical Software Engineering] (JCR-Q1)  　Springer  <br> 
+[PDF](https://link.springer.com/content/pdf/10.1007/s10664-016-9430-z.pdf) <br>
+
+
+- **HDSKG: harvesting domain specific knowledge graph from content of webpages**  <br>
+[SANER] (ccf-b)  　Springer  <br> 
+[PDF](https://ieeexplore.ieee.org/document/7884609) <br>
+
+
 
 ## 2016
 
@@ -377,6 +397,21 @@
 - **Enhancing UML Class Diagram Abstraction with Knowledge Graph**  <br>
 [IDEAL] ()  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-319-46257-8_65) <br>
+
+
+- **TechLand: Assisting technology landscape inquiries with insights from stack overflow**  <br>
+[ICSME] (ccf-b)  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/document/7816481) <br>
+
+
+- **Mining Analogical Libraries in Q&A Discussions — Incorporating Relational and Categorical Knowledge into Word Embedding**  <br>
+[IDEAL] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/document/7476655) <br>
+
+
+- **Predicting semantically linkable knowledge in developer online forums via convolutional neural network**  <br>
+[ICASE] ()  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/document/7582745) <br>
 
 
 ## 2015
