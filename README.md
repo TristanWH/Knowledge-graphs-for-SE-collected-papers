@@ -337,14 +337,8 @@
 [PDF](https://ieeexplore.ieee.org/document/8530028) <br>
 
 
-- **DeepWeak: reasoning common software weaknesses via knowledge graph embedding**  <br>
-[SANER] (ccf-b)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/abstract/document/8330232) <br>
-
-
 
 ## 2017
-
 
 - **Specifying architecture of knowledge graph with data graph, information graph, knowledge graph and wisdom graph**  <br>
 [SERA] ()  　IEEE  <br> 
