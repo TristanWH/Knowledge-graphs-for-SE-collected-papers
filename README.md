@@ -2,11 +2,6 @@
 
 ## 2023
 
-- **Defining a Knowledge Graph Development Process Through a Systematic Review**  <br>
-[ACM Transactions on Software Engineering and Methodology] (JCR-Q3)  　ACM  <br> 
-[PDF](https://dl.acm.org/doi/10.1145/3522586) <br>
-
-
 - **Representing Technical Standards as Knowledge Graph to Guide the Design of Industrial Systems**  <br>
 [EUROCAST] ()  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-25312-6_71) <br>
@@ -53,11 +48,6 @@
 - **Creating Virtual Knowledge Graphs from Software-Internal Data**  <br>
 [IES] ()  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9969051) <br>
-
-
-- **KGSecConfig: A Knowledge Graph Based Approach for Secured Container Orchestrator Configuration**  <br>
-[SANER] (ccf-b)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9825815) <br>
 
 
 - **Towards An Efficient Searching Approach of ROS Message by Knowledge Graph**  <br>
