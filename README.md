@@ -128,11 +128,6 @@
 [PDF](https://ieeexplore.ieee.org/document/9440180) <br>
 
 
-- **Using Cognitive Interest Graph and Knowledge-activated Attention for Learning Resource Recommendation**  <br>
-[COMPSAC] (ccf-c)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9529854) <br>
-
-
 - **Fault Localization based on Knowledge Graph in Software-Defined Optical Networks**  <br>
 [Journal of Lightwave Technology] (JCR_Q1)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9399234) <br>
