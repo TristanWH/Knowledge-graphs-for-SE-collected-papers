@@ -295,10 +295,6 @@
 [PDF](https://link.springer.com/chapter/10.1007/978-981-15-1922-2_1) <br>
 
 
-- **代码知识图谱构建及智能化软件开发方法研究**  <br>
-[软件学报] (ccf-a)  　CNKI  <br> 
-[PDF](https://kns.cnki.net/kns8/Detail?sfield=fn&QueryID=12&CurRec=66&DbCode=CJFD&dbname=CJFDLAST2020&filename=RJXB202001003&urlid=11.2560.TP.20191106.1149.012&yx=Y) <br>
-
 
 ## 2018
 
