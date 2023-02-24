@@ -1,4 +1,4 @@
-# Papers for Knowledge-graphs in SE
+# Papers: Knowledge-graphs for SE
 
 ## 2023
 
